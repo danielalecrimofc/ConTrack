@@ -1,0 +1,22 @@
+# Ignorar ambiente virtual do Python
+backend/venv/
+
+# Ignorar caches do Python
+__pycache__/
+*.py[cod]
+
+# Ignorar arquivos do VSCode ou outras IDEs
+.vscode/
+.idea/
+
+# Ignorar arquivos temporários
+*.log
+*.swp
+.DS_Store
+
+# Ignorar builds do Flutter (frontend)
+frontend/build/
+frontend/.dart_tool/
+frontend/.packages
+frontend/.flutter-plugins
+frontend/.flutter-plugins-dependencies

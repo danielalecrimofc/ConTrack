@@ -1,0 +1,7 @@
+"""
+requirements.txt
+
+Arquivo que lista todas as dependências externas necessárias para o projeto Django. 
+Ele permite que o ambiente de desenvolvimento seja configurado facilmente, instalando 
+todas as bibliotecas e versões específicas necessárias para o funcionamento do projeto.
+"""
