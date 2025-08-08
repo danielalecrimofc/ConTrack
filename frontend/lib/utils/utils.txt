@@ -1,0 +1,2 @@
+Contém funções utilitárias, helpers ou configurações que auxiliam no funcionamento do app,
+como formatadores, constantes, entre outros.

@@ -1,0 +1,2 @@
+Contém classes que representam os dados do seu app, como entidades, estruturas de objetos,
+e modelos de dados usados na aplicação.
