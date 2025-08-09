@@ -23,3 +23,8 @@ frontend/.flutter-plugins-dependencies
 
 # Ignorar arquivo Flutter metadata
 .metadata
+
+# Ignorar arquivos de registro plugin gerados automaticamente
+frontend/windows/flutter/generated_plugin_registrant.cc
+frontend/windows/flutter/generated_plugin_registrant.h
+frontend/windows/flutter/generated_plugins.cmake
