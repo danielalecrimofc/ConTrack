@@ -1,0 +1,4 @@
+Fica todo o conteúdo de interfaces de usuário (UI) 
+de cada tela do aplicativo, incluindo a estrutura da tela e lógica específica de cada uma.
+Fica todo o conteúdo de interfaces de usuário (UI) de cada tela do aplicativo, incluindo 
+a estrutura da tela e lógica específica de cada uma.

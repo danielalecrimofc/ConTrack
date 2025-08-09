@@ -1,0 +1,2 @@
+Responsável por definir e gerenciar as rotas de navegação do app, incluindo os 
+nomes das rotas e como navegar entre telas.

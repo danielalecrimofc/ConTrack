@@ -1,0 +1,3 @@
+Inclui classes que fazem conexões externas, 
+como APIs, banco de dados,autenticação e outros
+serviços de backend.
